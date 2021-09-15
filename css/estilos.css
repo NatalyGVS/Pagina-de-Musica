@@ -1,0 +1,54 @@
+/* body {
+	background-color: red;
+} */
+
+@media screen and (max-width: 500px) {
+	.d-smartphone-none {
+		display: none;
+	}
+}
+
+.fuente-logo {
+	font-family: "Sofia", sans-serif;
+	text-shadow: 3px 3px 3px #ababab;
+}
+
+.fuente-corusel {
+	font-family: "Urbanist", sans-serif;
+}
+
+.fuente-text-table {
+	font-family: "Urbanist", sans-serif;
+	font-size: 1.4em;
+	color: rgb(95, 95, 230);
+}
+
+.inputIncorrecto {
+	color: #bb2929;
+	border: 3px solid #bb2929;
+}
+
+.mensajeError {
+	color: #bb2929;
+}
+
+.card img {
+	width: 100px;
+	margin: 0 auto;
+	display: block;
+}
+
+h5 {
+	text-align: center;
+}
+.card-body {
+	background-color: white;
+}
+
+a.active {
+	border-bottom: 4px solid rgb(33, 33, 201);
+}
+
+a.activeBtn {
+	background-color: #0e4699;
+}
